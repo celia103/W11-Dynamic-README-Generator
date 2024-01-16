@@ -34,10 +34,14 @@ function generateMarkdown(data) {
     .join('\n');
 
   const creditList = data.credits === 'N/A' ? '' :
-  `- [${data.credits}](https://github.com/${(data.collaboratorGitHub || '').toString().toLowerCase().split(' ').join('-')})`;
-
+  data.credits
+  .map((credit, index) => `- [${data.credits[index]} GitHub](https://github.com/${(data.collaboratorGitHub[index] || '').toString().toLowerCase().split(' ').join('-')})`)
+  .join('\n');
+  
   const contactList = data.credits === 'N/A' ? '' :
-  `- [${data.credits} Email](${(data.collaboratorEmail || '').toString().toLowerCase().split(' ').join('-')})`;
+  data.collaboratorEmail
+    .map((email, index) => `- [${data.credits[index]} Email](${email.toLowerCase().split(' ').join('-')})`)
+    .join('\n');
 
   return `
 # ${data.title}
