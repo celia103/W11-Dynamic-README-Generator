@@ -23,9 +23,12 @@ Follow these steps to install the Dynamic README Generator:
 
 ## Usage
 Once installed, run the application using the command 'node index.js' in the terminal. Follow the interactive prompts to input your project details. The generator will create a README file based on your responses.
-![screenshot.png](./assets/video/Screenshot.png)
+![screenshot.png](./assets/images/Screenshot.png)
 
-For a visual walkthrough, please refer to /assets/images/Walkthrough.mp4. The walkthrough is divided into two parts:
+For a visual walkthrough, please refer to /assets/video/Walkthrough.mp4. 
+Or watch it on the Google drive: [https://drive.google.com/file/d/18glC3eU4tpjXbad_-TObvT0dLrISj5mH/view?usp=sharing](https://drive.google.com/file/d/18glC3eU4tpjXbad_-TObvT0dLrISj5mH/view?usp=sharing)
+
+The walkthrough is divided into two parts:
 
 1. **Usage Demonstration:**
 This part provides a step-by-step demonstration of how to use the application.
