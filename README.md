@@ -22,7 +22,7 @@ Follow these steps to install the Awesome README Generator:
 
 ## Usage
 Once installed, run the application using the command 'node index.js' in the terminal. Follow the interactive prompts to input your project details. The generator will create a README file based on your responses.
-![screenshot.png](./assets/images/Screenshot.png)
+![screenshot.png](./assets/video/Screenshot.png)
 
 For a visual walkthrough, please refer to /assets/images/Walkthrough.mp4. The walkthrough is divided into two parts:
 
