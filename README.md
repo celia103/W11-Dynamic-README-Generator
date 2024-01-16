@@ -14,11 +14,12 @@ The "Dynamic README Generator" is a tool designed to simplify the creation of th
 - [Questions](#questions)
 
 ## Installation
-Follow these steps to install the Awesome README Generator:
+Follow these steps to install the Dynamic README Generator:
 1. Clone the repository.
-2. Run 'npm install' to install dependencies.
-3. Run the application using 'node index.js'.
-4. Follow the prompts to provide project details.
+   [The URL of the GitHub repository](https://github.com/celia103/W11-Dynamic-README-Generator)
+3. Run 'npm install' to install dependencies.
+4. Run the application using 'node index.js'.
+5. Follow the prompts to provide project details.
 
 ## Usage
 Once installed, run the application using the command 'node index.js' in the terminal. Follow the interactive prompts to input your project details. The generator will create a README file based on your responses.
