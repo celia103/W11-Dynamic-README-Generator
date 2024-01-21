@@ -1,4 +1,7 @@
 # W11-Dynamic-README-Generator
+![GitHub License](https://img.shields.io/github/license/celia103/W11-Dynamic-README-Generator)
+![GitHub release](https://img.shields.io/github/release/celia103/W11-Dynamic-README-Generator.svg)
+![GitHub language](https://img.shields.io/github/languages/top/celia103/W11-Dynamic-README-Generator)
 
 ## Description
 The "Dynamic README Generator" is a tool designed to simplify the creation of thorough and well-organized README files for software projects. It prompts users for essential information, such as project details, installation instructions, usage guidelines, licensing preferences, and more. The resulting README includes a table of contents for easy navigation, automatically formatted sections, and links to collaborators' GitHub profiles and emails. You can streamline and improve your project documentation by using this efficient README generation tool.
@@ -25,8 +28,7 @@ Follow these steps to install the Dynamic README Generator:
 Once installed, run the application using the command 'node index.js' in the terminal. Follow the interactive prompts to input your project details. The generator will create a README file based on your responses.
 ![screenshot.png](./assets/images/Screenshot.png)
 
-For a visual walkthrough, please refer to /assets/video/Walkthrough.mp4. 
-Or watch it on the Google drive: [https://drive.google.com/file/d/18glC3eU4tpjXbad_-TObvT0dLrISj5mH/view?usp=sharing](https://drive.google.com/file/d/18glC3eU4tpjXbad_-TObvT0dLrISj5mH/view?usp=sharing)
+For a visual walkthrough, watch it on the Google drive: [https://drive.google.com/file/d/14Sn2vEiKDATYwP-RkELpf2TBitlOmRJB/view?usp=sharing](https://drive.google.com/file/d/14Sn2vEiKDATYwP-RkELpf2TBitlOmRJB/view?usp=sharing). Or please refer to /assets/video/Walkthrough.mp4. 
 
 The walkthrough is divided into two parts:
 
