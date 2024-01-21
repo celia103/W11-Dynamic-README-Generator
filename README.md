@@ -1,6 +1,5 @@
 # W11-Dynamic-README-Generator
-![GitHub License](https://img.shields.io/github/license/celia103/W11-Dynamic-README-Generator)
-![GitHub release](https://img.shields.io/github/release/celia103/W11-Dynamic-README-Generator.svg)
+![License](https://img.shields.io/badge/license-MIT-green)
 ![GitHub language](https://img.shields.io/github/languages/top/celia103/W11-Dynamic-README-Generator)
 
 ## Description
