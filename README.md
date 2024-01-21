@@ -18,16 +18,16 @@ The "Dynamic README Generator" is a tool designed to simplify the creation of th
 ## Installation
 Follow these steps to install the Dynamic README Generator:
 1. Clone the repository.
-   [The URL of the GitHub repository](https://github.com/celia103/W11-Dynamic-README-Generator){:target="_blank"}
-3. Run 'npm install' to install dependencies.
-4. Run the application using 'node index.js'.
-5. Follow the prompts to provide project details.
+   <a href="https://github.com/celia103/W11-Dynamic-README-Generator" target="_blank">The URL of the GitHub repository</a>
+2. Run 'npm install' to install dependencies.
+3. Run the application using 'node index.js'.
+4. Follow the prompts to provide project details.
 
 ## Usage
 Once installed, run the application using the command 'node index.js' in the terminal. Follow the interactive prompts to input your project details. The generator will create a README file based on your responses.
 ![screenshot.png](./assets/images/Screenshot.png)
 
-For a visual walkthrough, watch it on the Google drive: [https://drive.google.com/file/d/14Sn2vEiKDATYwP-RkELpf2TBitlOmRJB/view?usp=sharing](https://drive.google.com/file/d/14Sn2vEiKDATYwP-RkELpf2TBitlOmRJB/view?usp=sharing){:target="_blank"}. Or please refer to /assets/video/Walkthrough.mp4. 
+For a visual walkthrough, watch it on the Google drive: <a href="https://drive.google.com/file/d/14Sn2vEiKDATYwP-RkELpf2TBitlOmRJB/view?usp=sharing" target="_blank">https://drive.google.com/file/d/14Sn2vEiKDATYwP-RkELpf2TBitlOmRJB/view?usp=sharing</a>. Or please refer to /assets/video/Walkthrough.mp4. 
 
 The walkthrough is divided into two parts:
 
@@ -51,4 +51,4 @@ To run tests, use the command 'npm test'. Ensure that all tests pass before cont
 
 ## Questions
 If you have any questions or need further clarification, feel free to open an issue or contact directly:
-- [Celia Email](mailto:celiayych@gmail.com){:target="_blank"}
+- <a href="mailto:celiayych@gmail.com" target="_blank">Celia's Email</a>
