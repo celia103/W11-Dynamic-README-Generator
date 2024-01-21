@@ -1,5 +1,6 @@
 // function to generate markdown for README
 function generateMarkdown(data) {
+	// define section names and titles
 	const sectionNames = [
 		"installation",
 		"usage",
@@ -22,6 +23,7 @@ function generateMarkdown(data) {
 		test: "Tests",
 	};
 
+	// function to generate badge based on license
 	function generateBadge(license) {
 		let badgeURL = "";
 
@@ -83,12 +85,14 @@ function generateMarkdown(data) {
 		return badgeURL ? `${badgeURL}` : "";
 	}
 
+	// generate badges for the provided data
 	const badge = generateBadge(data.license);
 	const topLangBadge = `![Top Language](https://img.shields.io/github/languages/top/${data.GitHub}/${data.GitHubRepo})`;
 	const langCountBadge = `![Language Count](https://img.shields.io/github/languages/count/${data.GitHub}/${data.GitHubRepo})`;
 
 	data.badge = badge;
 
+	// generate table of contents	
 	const tableOfContents = sectionNames
 		.map((section) => {
 			// Check if the section has a non-N/A answer
@@ -137,6 +141,7 @@ function generateMarkdown(data) {
 			? `![${data.usageImage}](assets/images/${data.usageImage})`
 			: "";
 
+	// generate the final markdown content							
 	return `
 # ${data.title}
 
