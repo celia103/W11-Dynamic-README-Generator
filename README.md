@@ -11,7 +11,6 @@ The "Dynamic README Generator" is a tool designed to simplify the creation of th
 - [Credits](#credits)
 - [License](#license)
 - [Features](#features)
-- [How to Contribute](#how-to-contribute)
 - [Tests](#tests)
 - [Questions](#questions)
 
